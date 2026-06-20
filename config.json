@@ -1,0 +1,14 @@
+{
+    "api_keys": {
+        "gemini": "YOUR_GEMINI_API_KEY_HERE",
+        "openai": "YOUR_OPENAI_API_KEY_HERE",
+        "groq": "YOUR_GROQ_API_KEY_HERE",
+        "openrouter": "YOUR_OPENROUTER_API_KEY_HERE",
+        "nvidia": "YOUR_NVIDIA_API_KEY_HERE"
+    },
+    "provider_settings": {
+        "last_provider": "ollama",
+        "whisper_model": "small",
+        "ollama_url": "http://localhost:11434"
+    }
+}

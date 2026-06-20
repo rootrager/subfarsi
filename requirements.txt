@@ -1,0 +1,8 @@
+customtkinter
+opencv-python
+Pillow
+faster-whisper
+requests
+torch
+urllib3
+google-genai
